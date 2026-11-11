@@ -1,0 +1,6 @@
+# Install a CUDA-enabled PyTorch build first; see README.md.
+torch>=2.3
+numpy>=1.26
+pandas>=2.2
+tqdm>=4.66
+ninja>=1.11
